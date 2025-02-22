@@ -62,8 +62,8 @@ h6,.h6
 .btn:hover,
 .btn:focus
 {
-    background-color: transparent;
-    color: #FFFFFF;
+    background-color: #fbdecbe3;
+    color: #a34901;
 }
 .red-carpet,
 .golden-carpet
@@ -1414,7 +1414,7 @@ input[type="search"]
 }
 .keyboard {
 
-    background: #FFFFFF;
+    background: #f9e87f;
     padding: 2px;
 }
 /* Media query */
